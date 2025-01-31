@@ -1,3 +1,7 @@
+*{
+  margin: 0;
+  padding: 0;
+}
 @import url('https://fonts.googleapis.com/css2?family=ADLaM+Display&family=Sora:wght@100..800&display=swap');
 /* css font */
 .adlam{
@@ -11,6 +15,10 @@
     font-style: normal;
     font-weight: 400;
   }
-:root{
-    --color:#FFDC26
+
+.imgbilai{
+  background: url(../c1-img/cat-big.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
 }
